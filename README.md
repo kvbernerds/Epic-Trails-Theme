@@ -10,6 +10,7 @@
 
 - Diseño 100% responsive
 - Código limpio
+- Integración con el formulario integrado de Izipay
 - Optimizado para SEO y velocidad
 
 ## 📸 Capturas
