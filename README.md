@@ -14,7 +14,9 @@
 
 ## 📸 Capturas
 
-![screenshot](./screenshot.png)
+![screenshot](./tour-create.png)
+![screenshot](./gestion%20de%20reservas.PNG)
+![screenshot](./form-booking.PNG)
 
 ## 🛒 Métodos de compra
 
